@@ -1,16 +1,29 @@
-### Hi there 👋
+![skyrblog logo](assets/banner.jpg)
+<h1 align='center'>Etudiant en développement web</h1>
+<div style='text-align: center'>
+<div style='display: block; margin-top:50px;'>
+    <h3>Je n'ai qu'un seul Dieu </h3>
+    <img  width='30%' alt='gif git'src='assets/graphik.png' >
+</div> 
+<div style='display: block; margin-top: 50px;'> 
+    <h3>Je n'ai qu'une religion seul Dieu </h3>
+    <img width='60%' alt='gif git'src='assets/stack.png'>
+</div> 
+</div>
 
-<!--
-**wared2003/wared2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center' style='margin-top:65px'>Mes thecnos favorites</h1>
+<div style='display: block; margin-top: 50px;text-align:center'> 
+    <img width='20%' alt='gif git'src='assets/html.png'>
+    <img width='15%' alt='gif git'src='assets/css.png'>
+    <img width='20%' alt='gif git'src='assets/js.png'>
 
-Here are some ideas to get you started:
+</div> 
+<div style='display: block; margin-top: 50px;text-align:center'> 
+    <img width='20%' alt='gif git'src='assets/linux.png'>
+    <img width='20%' alt='gif git'src='assets/xnxx.png'>
+    <img width='20%' alt='gif git'src='assets/python.png'>
+    
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
