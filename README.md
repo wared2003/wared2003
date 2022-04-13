@@ -20,9 +20,7 @@
 </div> 
 <div style='display: block; margin-top: 50px;text-align:center'> 
     <img width='20%' alt='gif git'src='assets/linux.png'>
-    <img width='20%' alt='gif git'src='assets/xnxx.png'>
-    <img width='20%' alt='gif git'src='assets/python.png'>
-    
+    <img width='20%' alt='gif git'src='assets/python.png'>    
 </div> 
 
 
