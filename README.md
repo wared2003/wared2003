@@ -67,8 +67,8 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Zicos Cloud](https://zicos.cloud.decaweb.fr)** | 🎵 Personal music streaming & storage platform. | Django, Vue, Nginx |
-| **[FreeKiosk Hub](https://github.com/RushB-fr/freekiosk-hub)** | 📊 Fleet management for Kiosk devices via Tailscale. | Go, HTMX, SQLite |
+| **[Zicos Cloud](https://zicos.decaweb.fr)** | 🎵 Personal music streaming & storage platform. | Django, Vue, Nginx |
+| **[FreeKiosk Hub](https://github.com/wared2003/freekiosk-hub)** | 📊 Fleet management for Kiosk devices via Tailscale. | Go, HTMX, SQLite |
 | **[Decaweb](https://decaweb.fr)** | 🌐 Professional Web Agency & Technical Solutions. | Fullstack |
 
 ---
@@ -82,18 +82,10 @@
 
 ---
 
-## 📊 Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushB-fr&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushB-fr&layout=compact&theme=tokyonight" alt="Langs" />
-</p>
-
----
 
 <p align="center">
   <a href="https://decaweb.fr">🌐 Decaweb.fr</a> • 
-  <a href="https://zicos.cloud.decaweb.fr">🎵 Zicos Cloud</a> • 
+  <a href="https://zicos.decaweb.fr">🎵 Zicos Cloud</a> • 
   <a href="mailto:contact@decaweb.fr">📧 Email</a>
 </p>
 
