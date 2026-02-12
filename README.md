@@ -1,4 +1,4 @@
-# ⚡ <samp>System.out.println("Hello, I'm Edouard");</samp>
+# ⚡ <samp>fmt.Println("Hello, I'm Edouard")</samp>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00ADD8&height=200&section=header&text=Software%20Developer%20%7C%20Ops%20Expert&fontSize=50&animation=fadeIn" width="100%" alt="Header" />
