@@ -1,12 +1,12 @@
-# ⚡ <samp>System.out.println("Hello, I'm [Your Name]");</samp>
+# ⚡ <samp>System.out.println("Hello, I'm Edouard");</samp>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ADD8&height=200&section=header&text=Fullstack%20Dev%20%7C%20Ops%20Enthusiast&fontSize=50&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ADD8&height=200&section=header&text=Software%20Developer%20%7C%20Ops%20Expert&fontSize=50&animation=fadeIn" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RushB-fr&label=HACKER+VISITS&color=00ADD8&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Linux" />
+  <img src="https://komarev.com/ghpvc/?username=RushB-fr&label=PROFILE+VIEWS&color=00ADD8&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/OS-Debian_Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Agency-Decaweb.fr-white?style=for-the-badge" alt="Agency" />
 </p>
 
@@ -18,12 +18,12 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <h3>"Je n'ai qu'un seul Dieu"</h3>
+        <h3>"I have only one God"</h3>
         <img src="assets/graphik.png" width="80%" alt="Logic & Design" />
         <p><i>The perfection of Logic meets the beauty of Design.</i></p>
       </td>
       <td width="50%" align="center">
-        <h3>"Je n'ai qu'une religion"</h3>
+        <h3>"I have only one Religion"</h3>
         <img src="assets/stack.png" width="100%" alt="The Stack" />
         <p><i>Architecture is my creed.</i></p>
       </td>
@@ -50,8 +50,8 @@
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Home_Lab-Enthusiast-blueviolet?style=for-the-badge&logo=home-assistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ### 🔌 Hardware & Low-Level
@@ -73,12 +73,12 @@
 
 ---
 
-## 🐧 About My Journey
-- 🔭 **I'm a Developer first:** Passionate about clean code and efficient architectures with **Go** and **Django**.
-- 📱 **Mobile & Web:** Bridging the gap between the web (**HTMX/Vue**) and mobile (**React Native**).
-- 🏠 **Homelab Addict:** Running my own private cloud on **Proxmox**. I don't just use the cloud, I *am* the cloud.
-- 🏗️ **Ops Reality:** Mastery of **Kubernetes**, CI/CD, and Linux system administration.
-- 🕹️ **Low-Level Tinkering:** When I'm not coding web apps, I'm writing **C++** for **ESP32** sensors.
+## 🐧 About Me
+- 🔭 **Developer First:** I build efficient, clean, and scalable backends using **Go** and **Python/Django**.
+- 📱 **Full-Stack Vision:** Mastering the modern web with **HTMX** and **Vue**, and mobile with **React Native**.
+- 🏠 **Ops & Homelab:** I run my own infrastructure on **Proxmox** and **Debian**. I don't just deploy code; I build the environment it lives in.
+- 🏗️ **Orchestration:** Advanced usage of **Kubernetes** and Docker for seamless scalability.
+- 🕹️ **Maker Mindset:** Tinkering with **C++** on **ESP32** and Arduino to connect the physical world to the cloud.
 
 ---
 
@@ -92,8 +92,8 @@
 ---
 
 <p align="center">
-  <a href="https://decaweb.fr">🌐 Decaweb.fr</a> •
-  <a href="https://zicos.cloud.decaweb.fr">🎵 Zicos Cloud</a> •
+  <a href="https://decaweb.fr">🌐 Decaweb.fr</a> • 
+  <a href="https://zicos.cloud.decaweb.fr">🎵 Zicos Cloud</a> • 
   <a href="mailto:contact@decaweb.fr">📧 Email</a>
 </p>
 
